@@ -6,7 +6,7 @@ programa {
 
     inteiro numero
 
-    escreva("Digite um numero: ")
+    escreva("Digite um numero: ""\n")
     leia(numero)
 
     escreva(numero," x 1 = ",numero * 1,"\n")
